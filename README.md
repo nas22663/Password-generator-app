@@ -34,7 +34,6 @@ Users should be able to:
 ![Desktop](./Desktop.png)
 ![Mobile](./Mobile.png)
 
-
 ### Links
 
 - Solution URL: [GITHUB](https://github.com/nas22663/Password-generator-app)
